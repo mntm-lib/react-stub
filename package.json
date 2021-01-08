@@ -1,6 +1,6 @@
 {
   "name": "@mntm/react",
-  "version": "17.0.1",
+  "version": "17.0.3",
   "main": "index.js",
   "module": "index.mjs",
   "source": "index.mjs",
