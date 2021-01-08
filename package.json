@@ -1,0 +1,29 @@
+{
+  "name": "@mntm/react",
+  "version": "17.0.1",
+  "main": "index.js",
+  "module": "index.mjs",
+  "source": "index.mjs",
+  "jsnext:main": "index.mjs",
+  "author": {
+    "name": "Anton Petrov",
+    "email": "im@petrov.engineer",
+    "url": "https://petrov.engineer"
+  },
+  "description": "A React compatibility stub",
+  "license": "MIT",
+  "homepage": "https://github.com/maxi-team/preact-stub",
+  "bugs": "https://github.com/maxi-team/preact-stub/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxi-team/preact-stub.git"
+  },
+  "peerDependencies": {
+    "preact": "^10.0.0"
+  },
+  "peerDependenciesMeta": {
+    "preact": {
+      "optional": false
+    }
+  }
+}
