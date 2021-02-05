@@ -1,6 +1,6 @@
 {
   "name": "@mntm/react",
-  "version": "17.0.3",
+  "version": "17.0.4",
   "main": "index.js",
   "module": "index.mjs",
   "source": "index.mjs",
@@ -12,11 +12,11 @@
   },
   "description": "A React compatibility stub",
   "license": "MIT",
-  "homepage": "https://github.com/maxi-team/preact-stub",
-  "bugs": "https://github.com/maxi-team/preact-stub/issues",
+  "homepage": "https://github.com/maxi-team/react-stub",
+  "bugs": "https://github.com/maxi-team/react-stub/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxi-team/preact-stub.git"
+    "url": "https://github.com/maxi-team/react-stub.git"
   },
   "peerDependencies": {
     "preact": "^10.0.0"
