@@ -12,4 +12,4 @@ yarn add @mntm/react
 
 ### License
 
-@mntm/eslint-config is [MIT licensed](./LICENSE).
+@mntm/react is [MIT licensed](./LICENSE).
