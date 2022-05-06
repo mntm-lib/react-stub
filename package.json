@@ -25,7 +25,8 @@
         "import": "./jsx-runtime.mjs"
       },
       "./jsx-runtime.mjs"
-    ]
+    ],
+    "./server": "./server.js"
   },
   "sideEffects": [
     "./optimize.mjs"
